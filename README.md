@@ -18,6 +18,8 @@ Built with the following:
 * [Express](https://expressjs.com/)
 * [Redux](https://redux.js.org/)
 * [MongoDB](https://www.mongodb.com/)
+* [balldontlie API](https://www.balldontlie.io/#introduction)
+* [Weather API](https://www.weatherapi.com/)
 
 ## Conclusion
 
