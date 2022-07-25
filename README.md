@@ -21,6 +21,27 @@ Built with the following:
 * [balldontlie API](https://www.balldontlie.io/#introduction)
 * [Weather API](https://www.weatherapi.com/)
 
+## Demo Photos
+<h1> Registration </h1>
+<div align="center">
+  <img src="demo-photos/register.png" alt="Logo">
+</div>
+
+<h1> Login </h1>
+<div align="center">
+  <img src="demo-photos/login.png" alt="Logo">
+</div>
+
+<h1> Team Select </h1>
+<div align="center">
+  <img src="demo-photos/without-weather-showing.png" alt="Logo">
+</div>
+
+<h1> Current Weather </h1>
+<div align="center">
+  <img src="demo-photos/with-weather-showing.png" alt="Logo">
+</div>
+
 ## Conclusion
 
 #### Completed
@@ -34,3 +55,5 @@ Built with the following:
 * Cache optimization 
 * Specifically caching NBA teams (As functionality of app is dependent on selecting a team therefore no reason to continue requesting resource)
 * Thoughts of caching weather lead to the realization if we want real time weather metrics we will need to make a new request each time
+
+
