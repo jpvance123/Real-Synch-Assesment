@@ -22,22 +22,22 @@ Built with the following:
 * [Weather API](https://www.weatherapi.com/)
 
 ## Demo Photos
-<h1> Registration </h1>
+<h3> Registration </h3>
 <div align="center">
   <img src="demo-photos/register.png" alt="Logo">
 </div>
 
-<h1> Login </h1>
+<h3> Login </h3>
 <div align="center">
   <img src="demo-photos/login.png" alt="Logo">
 </div>
 
-<h1> Team Select </h1>
+<h3> Team Select </h3>
 <div align="center">
   <img src="demo-photos/without-weather-showing.png" alt="Logo">
 </div>
 
-<h1> Current Weather </h1>
+<h3> Current Weather </h3>
 <div align="center">
   <img src="demo-photos/with-weather-showing.png" alt="Logo">
 </div>
